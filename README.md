@@ -4,10 +4,10 @@
 
 My name's Luke. I'm a front end developer currently working @thought-machine using React ⚛!
 
-I consider myself a generalist, familliar with many languages including JS, TS, Golang, C/C++, Python; and I'm currently learning rust 🦀.
+I consider myself a generalist, familliar with many languages including JS, TS, Golang, Python; and I'm currently learning C/C++ & Rust 🦀.
 
 - 🔭 I’m currently working on building a react style reconciller in C++ ⚛
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++ & Rust
 - 💬 Ask me about anything 😁
 - 📫 How to reach me: [@_lukeharris](https://twitter.com/_lukeharris)
 - 😄 Pronouns: He / Him
