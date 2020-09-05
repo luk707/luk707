@@ -16,7 +16,7 @@ I consider myself a generalist, familliar with many languages including JS, TS, 
 Here are some noteworthy projects of mine I encourage you to take a look at:
 
 #### [luk707/games](https://github.com/luk707/games)
-> I'm using this project to tap back into graphics programming (which is how I taugt myself to code when I was 13 🐥), and, to continue learning C++ and Bazel.
+> I'm using this project to tap back into graphics programming (which is how I taught myself to code when I was 13 🐥), and, to continue learning C++ and Bazel.
 
 #### [luk707/rehype-truncate](https://github.com/luk707/rehype-truncate)
 > This project is a plugin for rehype which allows you to truncate strings of HTML whilst preserving the structure. It's useful to generate rich excerpts for blogs & documentation and has more than a few dependents now 📈.
