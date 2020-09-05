@@ -28,4 +28,4 @@ Here are some noteworthy projects of mine I encourage you to take a look at:
 > This little project helped me learn more about how lexer's and parser's work. The only input is a string of the mathematical expression, this program tokenises the string, and executes the expression while respecting the order of operations!
 
 #### [luk707/Practice-Project](https://github.com/luk707/Practice-Project/tree/feature/stack/basegameplay)
-> This was a project submitted to a hackathon I built in a team of four. I built tools to load and render 3D models from blender using WebGL with no external libraries other than Angular for the user interface while my team members built on top of this to make the game.
+> This was a project submitted to a hackathon I built in a team of four. I built tools to load and render 3D models from blender using WebGL with no external libraries other than Angular for the user interface while my team members built on top of this to make a clone of the mobile game Stack.
