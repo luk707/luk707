@@ -6,6 +6,7 @@ My name's Luke. I'm a front end engineer currently working [@thought-machine](ht
 
 I consider myself a generalist, familliar with many languages including JS, TS, Golang, Python; and I'm currently learning C/C++ & Rust 🦀.
 
+- 📍 London, GB
 - 🔭 I’m currently working on building a react style reconciller in C++ ⚛
 - 🌱 I’m currently learning C/C++ & Rust
 - 💬 Ask me about anything 😁
