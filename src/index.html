@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Luke Harris</title>
+    <link
+      rel="stylesheet"
+      href="../node_modules/tailwindcss/dist/tailwind.min.css"
+    />
+  </head>
+  <body
+    class="w-full max-w-screen-md xl:max-w-screen-lg mx-auto px-6 mt-16 lg:mt-32 xl:mt-56"
+  >
+    <section class="flex items-center">
+      <img class="rounded-full h-20 w-20" src="profile.jpg" alt="Luke Harris" />
+      <div class="flex flex-col mx-4 pr-20">
+        <h1 class="text-2xl font-extrabold">Luke Harris</h1>
+        <span
+          >22, engineer
+          <a
+            class="text-blue-900 bg-blue-100 border-b-2 border-blue-200"
+            href="https://twitter.com/thoughtmachine"
+            >@thoughtmachine</a
+          >
+          , (banking and stuff) London. Views & opinions my own.</span
+        >
+        <span class="text-xs text-gray-600">📍 London, GB</span>
+      </div>
+    </section>
+
+    <section class="mt-5 flex flex-col sm:px-4 sm:mx-20">
+      <h2 class="text-xs text-gray-700 font-extrabold uppercase">Projects</h2>
+      <div id="projects"></div>
+    </section>
+
+    <section class="mt-5 mb-12 sm:px-4 sm:mx-20">
+      <h2 class="text-xs text-gray-700 font-extrabold uppercase mb-2">
+        Social
+      </h2>
+      <a href="https://twitter.com/_lukeharris"
+        ><img
+          src="https://img.shields.io/twitter/follow/_lukeharris?style=social"
+          alt="Twitter Follow"
+      /></a>
+    </section>
+
+    <script src="./index.js"></script>
+  </body>
+</html>
