@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name's Luke. I'm a front end engineer currently working [@tradingview](https://github.com/tradingview) using React ⚛!
+My name's Luke. I'm a senior front end engineer currently working [@tradingview](https://github.com/tradingview) using React ⚛!
 
 I consider myself a generalist, familliar with many languages including JS, TS, Golang, Python; and I'm currently learning C/C++ & Rust 🦀.
 
