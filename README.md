@@ -10,7 +10,6 @@ I consider myself a generalist, familliar with many languages including JS, TS, 
 - 🔭 I’m currently working on building a react style reconciller in C++ ⚛
 - 🌱 I’m currently learning C/C++ & Rust
 - 💬 Ask me about anything 😁
-- 📫 How to reach me: [@_lukeharris](https://twitter.com/_lukeharris)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love to make music in my spare time and I'm building a modular synthesizer 🎹
 
