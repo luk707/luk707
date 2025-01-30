@@ -1,5 +1,3 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/_lukeharris?style=social)](https://twitter.com/_lukeharris)
-
 ### Hi there 👋
 
 My name's Luke. I'm a senior front end engineer currently working [@tradingview](https://github.com/tradingview) using React ⚛!
