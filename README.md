@@ -25,8 +25,14 @@ Here are some projects of mine I encourage you to take a look at:
 #### [luk707/envup](https://github.com/luk707/envup)
 > A CLI to solve working with environment variables as a team. It reads from an `env.json` file in the present working directory, and prompts the user to populate their `.env` files. This is version controllable too!
 
-#### [luk707/kette](https://github.com/luk707/kette)
-> Iterator tools for Rust.
+#### [luk707/funxion](https://github.com/luk707/funxion)
+> A TypeScript library to safely parse and execute user defined logical expressions, with variables and built-in functions like `if`, `join` and `mean`.
+
+#### [luk707/Stocks](https://github.com/luk707/Stocks)
+> An Android app for viewing stock market data 📈, complete with candlestick charts and sparklines. I built this to learn Kotlin and Compose, and to see an Android app through to completion.
+
+#### [luk707/glance-kubernetes-extensions](https://github.com/luk707/glance-kubernetes-extensions)
+> A small Python server that adds Kubernetes widgets to a [glance](https://github.com/glanceapp/glance) dashboard, giving you an overview of the nodes in your cluster and their CPU / RAM usage ☸️.
 
 #### [luk707/games](https://github.com/luk707/games)
 > A project I used to tap back into graphics programming (which is how I taught myself to code when I was 13 🐥), and to learn C++ and Bazel.
