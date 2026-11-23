@@ -9,6 +9,8 @@ I work across the whole stack, mostly in Python and TypeScript. Lately that has 
 - 🗄️ **Data platform**: a service that syncs data in from CRMs and other systems, with a SQL query editor on top (FastAPI, Postgres, DuckDB)
 - 🔧 **The bits in between**: auth, observability and our [Please](https://please.build) build
 
+A bit more about me:
+
 - 📍 London, UK
 - 🌐 [lukeharris.dev](https://lukeharris.dev)
 - 💬 Ask me about agents, document generation, React or anything else 😁
